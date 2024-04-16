@@ -38,7 +38,7 @@ Execute the programs and publish them.
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
 <map name="MyCity">
-    <area alt="Sri Harish's Home" title="Sri Harish's Home" href="home.html" coords="779,138,804,157" shape="rect">
+    <area alt="Arjun's Home" title="Arjun's Home" href="home.html" coords="779,138,804,157" shape="rect">
     <area alt="Hussain Memorial School" title="Hussain Memorial School" href="myschool.html" coords="816,123,836,140" shape="rect">
     <area alt="Chennai,Marina Beach" title="Chennai,Marina Beach" href="marina.html" coords="1294,374,1438,403" shape="rect">
     <area alt="Saveetha Engineering College" title="Saveetha Engineering College" href="mycollege.html" coords="281,477,354,511" shape="rect">
